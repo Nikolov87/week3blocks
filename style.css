@@ -1,0 +1,73 @@
+     h1 {
+         text-align: center;
+
+     }
+
+     h2 {
+         text-align: center;
+     }
+
+     p {
+         text-align: center;
+         
+     }
+
+
+     body {
+         font-family: sans-serif;
+         padding-left: 10%;
+         padding-right: 10%;
+         background: url(https://i.ibb.co/xzyZrnH/1nio1.jpg) no-repeat;
+
+
+     }
+
+     text {
+         display: block;
+         text-align: center;
+         size: 50px;
+         color: white;
+     }
+
+     textarea {
+         display: block;
+         margin: auto;
+         
+
+     }
+
+
+
+     .btn {
+         
+        border-radius: 0.25;
+        position: absolute;
+         
+     }
+      
+     .button
+    
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 25px;
+    text-align: center;
+    padding-left: 40%;
+        padding-right: 3#40%;
+}
+
+li {
+    text-align: center;
+    display: inline;
+    
+
+}
+
+li a {
+    color: black;
+    padding: 30px 50px;
+    text-decoration: none;
+    text-align: center;
+    
+}
